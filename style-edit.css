@@ -1,1 +1,38 @@
 
+https://en.wikipedia.org/w/load.php?debug=false&lang=en&modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&only=styles&skin=vector
+Request Method:GET
+Status Code:200  (from disk cache)
+Remote Address:208.80.153.224:443
+Referrer Policy:no-referrer-when-downgrade
+accept-ranges:bytes
+access-control-allow-origin:*
+age:231
+backend-timing:D=50470 t=1538525207120010
+cache-control:public, max-age=300, s-maxage=300
+content-encoding:gzip
+content-length:10541
+content-type:text/css; charset=utf-8
+date:Fri, 05 Oct 2018 15:26:13 GMT
+etag:W/"0vtxg5s"
+expires:Fri, 05 Oct 2018 15:27:20 GMT
+link:</static/images/project-logos/enwiki.png>;rel=preload;as=image;media=not all and (min-resolution: 1.5dppx),</static/images/project-logos/enwiki-1.5x.png>;rel=preload;as=image;media=(min-resolution: 1.5dppx) and (max-resolution: 1.999999dppx),</static/images/project-logos/enwiki-2x.png>;rel=preload;as=image;media=(min-resolution: 2dppx)
+server:mw2257.codfw.wmnet
+status:304
+vary:Accept-Encoding
+via:1.1 varnish (Varnish/5.1), 1.1 varnish (Varnish/5.1)
+x-analytics:WMF-Last-Access=05-Oct-2018;WMF-Last-Access-Global=05-Oct-2018;https=1
+x-cache:cp2010 hit/9, cp2004 hit/975
+x-cache-status:hit-front
+x-client-ip:71.174.81.214
+x-content-type-options:nosniff
+x-powered-by:HHVM/3.18.6-dev
+x-varnish:204139861 228106145, 244317720 246527922
+Provisional headers are shown
+Referer:https://en.wikipedia.org/wiki/Wielki_We%C5%82cz
+User-Agent:Mozilla/5.0 (X11; CrOS x86_64 10176.76.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.190 Safari/537.36
+debug:false
+lang:en
+modules:ext.3d.styles|ext.cite.styles|ext.uls.interlanguage|ext.visualEditor.desktopArticleTarget.noscript|ext.wikimediaBadges|mediawiki.legacy.commonPrint,shared|mediawiki.skinning.interface|skins.vector.styles|wikibase.client.init
+only:styles
+skin:vector
+load.php?debug=false&lang=en&modules=ext.3d.styles…es%7Cwikibase.client.init&only=styles&skin=vector	load.php?debug=false&lang=en&modules=ext.gadget.charinsert-styles&only=styles&skin=vector	load.php?debug=false&lang=en&modules=site.styles&only=styles&skin=vector	
